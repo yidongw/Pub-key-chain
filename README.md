@@ -1,4 +1,4 @@
-# hackathon-pub-key-chain
+pub-key-chain
 
 This project is for the development of a Chrome extension that retrieves a Public Key associated with a provided email address.
 
